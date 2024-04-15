@@ -6,4 +6,4 @@ A mock API of super old movies.
 
 ## Future Dev
 
-Change the movies to something les problematic
+Will change movies to less problematic options
