@@ -1,1 +1,4 @@
-# mod-17-movie-listing
+# Movie Listing Assignment
+
+MIT Emeritus Module 17 assignment.
+
